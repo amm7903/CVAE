@@ -1,1 +1,1 @@
-CVAE Google Colab File. Generate images using a Conditional Variational =Aautoencoder. CVAE is trained on MNIST dataset. 
+CVAE Google Colab File. Generate images using a Conditional Variational Autoencoder. CVAE is trained on MNIST dataset. 
